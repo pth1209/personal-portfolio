@@ -4,6 +4,10 @@ import createMDX from '@next/mdx';
 const nextConfig = {
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx'],
+  // Configure analytics and speed insights to be automatically injected
+  analytics: {
+    enabled: true,
+  },
 };
 
 const withMDX = createMDX({
