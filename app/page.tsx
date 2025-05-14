@@ -12,8 +12,6 @@ import {
 } from '@/components/ui/morphing-dialog'
 import Link from 'next/link'
 import Image from 'next/image'
-import { AnimatedBackground } from '@/components/ui/animated-background'
-import { PhotoSlideshow } from '@/components/ui/photo-slideshow'
 import {
   PROJECTS,
   WORK_EXPERIENCE,
@@ -141,7 +139,7 @@ export default function Personal() {
           <p className="text-zinc-600 dark:text-zinc-400">
             Student at the University of Texas at Austin studying Math and Computer Science 
             <span className="inline-block ml-1 transform rotate-[20deg]">🤘</span>
-            Passionate about using technology to drive change in healthcare, finance, and enterprise
+            Interested in using technology to drive change in healthcare, finance, and enterprise
           </p>
         </div>
       </motion.section>

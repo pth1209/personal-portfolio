@@ -1,15 +1,45 @@
 {
   "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-033283023f57a2ef.js",
+      "static/chunks/517-517b9dc9e570b5b1.js",
+      "static/chunks/main-app-76007d705b829dfb.js",
+      "static/chunks/app/_not-found/page-9de5d1119dd37782.js"
+    ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-033283023f57a2ef.js",
+      "static/chunks/517-517b9dc9e570b5b1.js",
+      "static/chunks/main-app-76007d705b829dfb.js",
+      "static/css/48d3ddc4a7a175e6.css",
+      "static/chunks/752-100923a861695c17.js",
+      "static/chunks/995-0a88d158293e8564.js",
+      "static/chunks/app/layout-67a1de2dc8b5494a.js"
     ],
     "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-033283023f57a2ef.js",
+      "static/chunks/517-517b9dc9e570b5b1.js",
+      "static/chunks/main-app-76007d705b829dfb.js",
+      "static/chunks/752-100923a861695c17.js",
+      "static/chunks/176-5642da3b468e5dee.js",
+      "static/chunks/app/page-030544dffe6f9a34.js"
+    ],
+    "/blog/layout": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-033283023f57a2ef.js",
+      "static/chunks/517-517b9dc9e570b5b1.js",
+      "static/chunks/main-app-76007d705b829dfb.js",
+      "static/chunks/752-100923a861695c17.js",
+      "static/chunks/app/blog/layout-81cfc0381fe816fb.js"
+    ],
+    "/blog/exploring-the-intersection-of-design-ai-and-design-engineering/page": [
+      "static/chunks/webpack-6405ef9acf0ddcb8.js",
+      "static/chunks/4bd1b696-033283023f57a2ef.js",
+      "static/chunks/517-517b9dc9e570b5b1.js",
+      "static/chunks/main-app-76007d705b829dfb.js",
+      "static/chunks/app/blog/exploring-the-intersection-of-design-ai-and-design-engineering/page-1db332835c0da12c.js"
     ]
   }
 }
